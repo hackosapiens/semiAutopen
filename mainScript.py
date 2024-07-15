@@ -20,7 +20,7 @@ EXPLOIT_TOOL = input("Enter the exploit tool (e.g., metasploit): ")
 OUTPUT_DIR = input("Enter the output directory (e.g., /path/to/output): ")
 
 # Define the port scan script
-PORT_SCAN_SCRIPT = "port_scan.sh"
+PORT_SCAN_SCRIPT = "port_scan.py"
 
 # Define the vulnerability scan script
 VULNERABILITY_SCAN_SCRIPT = "vulnerability_scan.sh"
